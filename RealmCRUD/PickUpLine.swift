@@ -20,6 +20,7 @@ import RealmSwift
         self.line = line
         self.score.value = score
         self.email = email
+        
     }
     
     func scoreString() -> String? {
